@@ -2,7 +2,8 @@
 
 
 # Chinese ChatBot
-![](https://github.com/WD-2711/easyForm/blob/main/README/easyform-v1-red.svg)
+![](https://github.com/WD-2711/chatbot/blob/main/readme_images/chatbot-v1-orange.svg)
+
 ​	A chat bot. Use **two-way GRU+attention** for training, tkinter for GUI. Dialogue with the chatbot through the registration and login mechanism. The chatbot uses **50,000** little yellow duck samples for training, using the results of the **75th** round of training. **Our chatbot is only for Chinese.**
 
 ------
